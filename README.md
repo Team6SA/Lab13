@@ -20,6 +20,8 @@ npm node
 
 ## UML
 
+![UML](./assets/Screenshot%202023-10-05%20at%2012.58.06%20PM.png)
+
 ## Authors
 
 Alejandra Altamirano & Samaad Turner
