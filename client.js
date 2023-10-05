@@ -3,7 +3,7 @@
 // module is used to create an interface for reading stuff from command line
 const readline = require('readline');
 const io = require('socket.io-client'); // socket connection to the server
-const socket = io('http://localhost:3000'); // Connect to our server's URL
+const socket = io('http://localhost:3002'); // Connect to our server's URL
 // this creates an object, 'rl' that is used to prompt the user for input
 const rl = readline.createInterface({
   input: process.stdin,
