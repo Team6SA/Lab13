@@ -2,10 +2,10 @@
   "name": "lab13",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest --verbose --coverage",
-    "start": "node server"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",

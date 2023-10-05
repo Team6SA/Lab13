@@ -8,6 +8,16 @@ npm install
 
 npm node
 
+## How the Game Works
+
+- The hub server generates a random number between 1 and 100 when a client connects and shares it with all clients.
+
+- Clients take turns guessing the number.
+
+- After each guess, the server broadcasts the guess and the difference between the guess and the target number to all clients.
+
+- The client who guesses closest to the target number wins the round.
+
 ## UML
 
 ## Authors
